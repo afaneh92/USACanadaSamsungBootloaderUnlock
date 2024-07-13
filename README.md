@@ -8,7 +8,7 @@ Notice
 ##### Note1: The OneUI 3.1 bootloader (March 2021 security update and later) will bypass the unlock token, Do not update or bump your bootloader version. So If you ever take the update and you can downgrade go for it. And you will remains unlocked.
 ##### Note2: Device Shipped with One UI 3.1 like S21 can be unlocked on V1 bootloader. A32 5G with V1, V2 & V3 bootloader.
 ##### Note3: Im not a part of sampwnd so dont conflict between us.
-##### Note4: I don't have a site, to request your token contact me on [Telegram](https://t.me/afaneh92) or [Gmail](https://mail.google.com/mail/u/0/?tf=cm&to=mohammad.afaneh92@gmail.com&su=Bootloader+Unlock) : mohammad.afaneh92@gmail.com
+##### Note4: I don't have a site, to request your token contact me on [Telegram](https://t.me/afaneh92) or [Gmail](https://mail.google.com/mail/u/0/?tf=cm&to=mohammad.afaneh92@gmail.com&su=Bootloader+Unlock) : mohammad.afaneh92@gmail.com or Discord @ afaneh92
 
 Description
 =============
@@ -114,5 +114,7 @@ Links
 [USA/Canada Bootloader Unlock discussion channel on Telegram](https://t.me/Afaneh92UnlockChannel)
 
 [USA/Canada Bootloader Unlock discussion group on Telegram](https://t.me/+MbKsAUFOh_Q4N2Vk)
+
+[USA/Canada Bootloader Unlock server on Discord](https://discord.gg/JkNGnBv8Ce)
 
 [USA/Canada Bootloader Unlock discussion on Github](https://github.com/afaneh92/USACanadaSamsungBootloaderUnlock/discussions/2)
