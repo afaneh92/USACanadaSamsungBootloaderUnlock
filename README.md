@@ -115,4 +115,6 @@ Links
 
 [USA/Canada Bootloader Unlock discussion group on Telegram](https://t.me/+MbKsAUFOh_Q4N2Vk)
 
+[USA/Canada Bootloader Unlock server on Discord](https://discord.com/invite/nAxKZTHX)
+
 [USA/Canada Bootloader Unlock discussion on Github](https://github.com/afaneh92/USACanadaSamsungBootloaderUnlock/discussions/2)
